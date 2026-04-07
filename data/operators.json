@@ -1,0 +1,15 @@
+[
+  {
+    "id": "operator_c48a4c32",
+    "name": "Hash",
+    "role": "manager",
+    "active": true,
+    "createdAt": "2026-04-07T01:54:18.056Z"
+  },
+  {
+    "id": "admin",
+    "name": "Admin",
+    "role": "admin",
+    "active": true
+  }
+]

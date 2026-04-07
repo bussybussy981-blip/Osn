@@ -1,0 +1,817 @@
+[
+  {
+    "id": "audit_3ebe6a25",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "user2",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-07T02:30:25.147Z"
+  },
+  {
+    "id": "audit_4b98d1d6",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "user2",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-07T02:30:15.031Z"
+  },
+  {
+    "id": "audit_f77f29d1",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "user2",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-07T02:30:03.749Z"
+  },
+  {
+    "id": "audit_6a33e783",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "user2",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-07T02:29:54.412Z"
+  },
+  {
+    "id": "audit_7073efd4",
+    "action": "operators.create",
+    "payload": {
+      "id": "operator_c48a4c32",
+      "name": "Hash",
+      "role": "manager",
+      "active": true,
+      "createdAt": "2026-04-07T01:54:18.056Z"
+    },
+    "createdAt": "2026-04-07T01:54:18.060Z"
+  },
+  {
+    "id": "audit_e878e0c7",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "user2",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-07T01:38:08.157Z"
+  },
+  {
+    "id": "audit_05ac9cd6",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "7h7u",
+      "messageType": "Single Repeat",
+      "recipientCount": 15
+    },
+    "createdAt": "2026-04-06T10:01:32.502Z"
+  },
+  {
+    "id": "audit_e0c5c890",
+    "action": "auth.login",
+    "payload": {
+      "username": "tada"
+    },
+    "createdAt": "2026-04-06T10:00:15.746Z"
+  },
+  {
+    "id": "audit_2aad1750",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "7h7u",
+      "messageType": "Single Repeat",
+      "recipientCount": 15
+    },
+    "createdAt": "2026-04-06T06:31:50.313Z"
+  },
+  {
+    "id": "audit_07e6a43b",
+    "action": "auth.login",
+    "payload": {
+      "username": "tada"
+    },
+    "createdAt": "2026-04-02T04:29:41.019Z"
+  },
+  {
+    "id": "audit_174f41c2",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "TDA",
+      "messageType": "Single Repeat",
+      "recipientCount": 15
+    },
+    "createdAt": "2026-04-02T03:10:46.617Z"
+  },
+  {
+    "id": "audit_b007071f",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "TDA",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T03:10:08.507Z"
+  },
+  {
+    "id": "audit_bf58c440",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "111",
+      "messageType": "Single Repeat",
+      "recipientCount": 15
+    },
+    "createdAt": "2026-04-02T03:05:34.996Z"
+  },
+  {
+    "id": "audit_78aa48b4",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "111",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T03:04:55.732Z"
+  },
+  {
+    "id": "audit_76a55c9f",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T03:02:14.759Z"
+  },
+  {
+    "id": "audit_d38d02c6",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:55:56.154Z"
+  },
+  {
+    "id": "audit_2b0385aa",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:55:48.405Z"
+  },
+  {
+    "id": "audit_41de8111",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:55:19.874Z"
+  },
+  {
+    "id": "audit_e94b4ea7",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:54:31.647Z"
+  },
+  {
+    "id": "audit_5df1f657",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:54:01.948Z"
+  },
+  {
+    "id": "audit_35f9df52",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:53:36.414Z"
+  },
+  {
+    "id": "audit_65cd0fa3",
+    "action": "auth.login",
+    "payload": {
+      "username": "tada"
+    },
+    "createdAt": "2026-04-02T02:53:23.962Z"
+  },
+  {
+    "id": "audit_86bf4183",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:52:15.518Z"
+  },
+  {
+    "id": "audit_ddfe915d",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:52:03.669Z"
+  },
+  {
+    "id": "audit_de37475e",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:49:35.288Z"
+  },
+  {
+    "id": "audit_260dba8a",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:49:11.079Z"
+  },
+  {
+    "id": "audit_88f77530",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T02:48:56.825Z"
+  },
+  {
+    "id": "audit_41ae260f",
+    "action": "auth.login",
+    "payload": {
+      "username": "qwer"
+    },
+    "createdAt": "2026-04-02T02:36:16.779Z"
+  },
+  {
+    "id": "audit_ec73ff93",
+    "action": "auth.register",
+    "payload": {
+      "username": "qwer"
+    },
+    "createdAt": "2026-04-02T02:22:02.607Z"
+  },
+  {
+    "id": "audit_89e405c9",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T01:57:27.751Z"
+  },
+  {
+    "id": "audit_8042e575",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-02T01:57:03.669Z"
+  },
+  {
+    "id": "audit_31b88491",
+    "action": "auth.login",
+    "payload": {
+      "username": "tada"
+    },
+    "createdAt": "2026-04-02T01:56:43.745Z"
+  },
+  {
+    "id": "audit_7470f2fa",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:53.274Z"
+  },
+  {
+    "id": "audit_b85c42c1",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:50.033Z"
+  },
+  {
+    "id": "audit_9f4c72c9",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:48.483Z"
+  },
+  {
+    "id": "audit_30ca65b4",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:46.733Z"
+  },
+  {
+    "id": "audit_b8a7256e",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:45.016Z"
+  },
+  {
+    "id": "audit_2d29bfca",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:43.289Z"
+  },
+  {
+    "id": "audit_7d97e248",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:41.418Z"
+  },
+  {
+    "id": "audit_723ee06f",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:40.249Z"
+  },
+  {
+    "id": "audit_f3d1eb31",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:39.116Z"
+  },
+  {
+    "id": "audit_abb14d43",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:37.843Z"
+  },
+  {
+    "id": "audit_dbabe3ed",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:36.516Z"
+  },
+  {
+    "id": "audit_c1d8babf",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:35.246Z"
+  },
+  {
+    "id": "audit_e12967e0",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:33.648Z"
+  },
+  {
+    "id": "audit_a6d0e80c",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:31.938Z"
+  },
+  {
+    "id": "audit_77b1a04f",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:30.489Z"
+  },
+  {
+    "id": "audit_e9163a97",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:28.284Z"
+  },
+  {
+    "id": "audit_c547281b",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:25.372Z"
+  },
+  {
+    "id": "audit_1e24d6e6",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:23.818Z"
+  },
+  {
+    "id": "audit_3e1aa7f1",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:22.018Z"
+  },
+  {
+    "id": "audit_edb080c3",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:20.146Z"
+  },
+  {
+    "id": "audit_75bfd510",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:18.355Z"
+  },
+  {
+    "id": "audit_17e6964f",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:15.368Z"
+  },
+  {
+    "id": "audit_bd1a9c6e",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:13.127Z"
+  },
+  {
+    "id": "audit_2a1f8e68",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:10.876Z"
+  },
+  {
+    "id": "audit_1ca755e9",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T05:02:00.432Z"
+  },
+  {
+    "id": "audit_ef3ed569",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T04:56:18.325Z"
+  },
+  {
+    "id": "audit_77f42149",
+    "action": "auth.login",
+    "payload": {
+      "username": "tada"
+    },
+    "createdAt": "2026-04-01T04:55:43.600Z"
+  },
+  {
+    "id": "audit_6728b7d4",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T04:55:29.970Z"
+  },
+  {
+    "id": "audit_da625719",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T04:55:19.867Z"
+  },
+  {
+    "id": "audit_6078013f",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T04:55:08.979Z"
+  },
+  {
+    "id": "audit_a5177379",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T04:54:57.005Z"
+  },
+  {
+    "id": "audit_5defe2da",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-04-01T04:54:41.980Z"
+  },
+  {
+    "id": "audit_117ab4a9",
+    "action": "auth.login",
+    "payload": {
+      "username": "tada"
+    },
+    "createdAt": "2026-04-01T04:37:01.429Z"
+  },
+  {
+    "id": "audit_ab4a0df7",
+    "action": "auth.login",
+    "payload": {
+      "username": "tada"
+    },
+    "createdAt": "2026-04-01T04:30:55.674Z"
+  },
+  {
+    "id": "audit_1fd1b83d",
+    "action": "auth.login",
+    "payload": {
+      "username": "tada"
+    },
+    "createdAt": "2026-04-01T04:02:38.017Z"
+  },
+  {
+    "id": "audit_45d560c5",
+    "action": "auth.setup",
+    "payload": {
+      "username": "tada"
+    },
+    "createdAt": "2026-04-01T03:51:09.227Z"
+  },
+  {
+    "id": "audit_2dcd5aa3",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "QWER",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-03-31T19:07:59.889Z"
+  },
+  {
+    "id": "audit_317bec49",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-03-31T18:02:40.796Z"
+  },
+  {
+    "id": "audit_48e0b632",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-03-31T18:02:27.227Z"
+  },
+  {
+    "id": "audit_c04bbc2c",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "ghgh",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-03-31T16:28:00.692Z"
+  },
+  {
+    "id": "audit_2cf36a6d",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "ghgh",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-03-31T16:27:30.153Z"
+  },
+  {
+    "id": "audit_ae8cf594",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Group",
+      "recipientCount": 4
+    },
+    "createdAt": "2026-03-31T08:33:37.706Z"
+  },
+  {
+    "id": "audit_5fff14fc",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Group",
+      "recipientCount": 2
+    },
+    "createdAt": "2026-03-31T08:33:28.190Z"
+  },
+  {
+    "id": "audit_8d5ceaae",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Group",
+      "recipientCount": 15
+    },
+    "createdAt": "2026-03-31T08:33:19.040Z"
+  },
+  {
+    "id": "audit_98bba527",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Group",
+      "recipientCount": 10
+    },
+    "createdAt": "2026-03-31T08:32:56.819Z"
+  },
+  {
+    "id": "audit_50ebf841",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Group",
+      "recipientCount": 4
+    },
+    "createdAt": "2026-03-31T08:32:51.697Z"
+  },
+  {
+    "id": "audit_41749fdf",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-03-31T07:32:11.520Z"
+  },
+  {
+    "id": "audit_65b18b58",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-03-31T07:31:41.751Z"
+  },
+  {
+    "id": "audit_72b0734f",
+    "action": "message.dispatch",
+    "payload": {
+      "userId": "tada",
+      "messageType": "Single",
+      "recipientCount": 1
+    },
+    "createdAt": "2026-03-31T07:31:31.459Z"
+  },
+  {
+    "id": "audit_2f5e42f9",
+    "action": "contacts.create",
+    "payload": {
+      "id": "contact_0452f924",
+      "name": "Raman",
+      "number": "917428066294",
+      "tags": [],
+      "createdAt": "2026-03-31T07:30:21.665Z"
+    },
+    "createdAt": "2026-03-31T07:30:21.667Z"
+  },
+  {
+    "id": "audit_e38b7715",
+    "action": "templates.create",
+    "payload": {
+      "id": "tpl_ec70d24b",
+      "name": "Raman Dalla",
+      "content": "Hello Raman Dalla kaise ho tum bhai?",
+      "variables": [],
+      "createdAt": "2026-03-31T07:29:59.677Z",
+      "updatedAt": "2026-03-31T07:29:59.677Z"
+    },
+    "createdAt": "2026-03-31T07:29:59.678Z"
+  }
+]
