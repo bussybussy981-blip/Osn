@@ -23,7 +23,7 @@
       "node": "20.x"
     },
     "@whiskeysockets/baileys": "^7.0.0-rc.9",
-    "better-sqlite3": "^12.8.0",
+    "better-sqlite3": "^8.4.0",
     "cors": "^2.8.6",
     "express": "^5.2.1"
   }
