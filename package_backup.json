@@ -1,0 +1,30 @@
+{
+  "engines": {
+    "node": "20.x"
+  },
+  "name": "whatsapp-saas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "engines": {
+      "node": "20.x"
+    },
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "postinstall": "npm rebuild better-sqlite3 --build-from-source"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "engines": {
+      "node": "20.x"
+    },
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "better-sqlite3": "^8.4.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
